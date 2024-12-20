@@ -1,0 +1,14 @@
+node_modules
+dist
+.nitro
+.output
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+cypress
+.vscode
+*.log
+*.lock
+*.md
+.env

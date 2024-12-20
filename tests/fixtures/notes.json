@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "First Note",
+    "todos": [
+      { "id": "1", "text": "First Task", "completed": false },
+      { "id": "2", "text": "Second Task", "completed": true }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Second Note",
+    "todos": [
+      { "id": "1", "text": "Another Task", "completed": false }
+    ]
+  }
+]
